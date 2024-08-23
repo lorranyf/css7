@@ -1,6 +1,6 @@
 body {
 	background-color: #42044b;
-	font-family: Arial, sans-serif;
+	font-family: 'Times New Roman', Times, serif, sans-serif;
 }
 
 header {
@@ -47,9 +47,9 @@ p {
 }
 
 img {
-	width: 50%;
+	width: 20%;
 	height: auto;
-	margin: 20px;
+	margin: 5px;
 }
 
 
