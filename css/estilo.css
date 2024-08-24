@@ -72,6 +72,10 @@ img {
 	border-radius: 50%;
 }
 
+img	{
+    border-radius: 50%;
+}
+
 
 a:hover {
 	color: #ccc;
