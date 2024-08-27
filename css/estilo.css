@@ -1,5 +1,5 @@
 body {
-	background-color: #cb6fe2;
+	background-color: #c562dd;
 	font-family: 'Times New Roman', Times, serif, sans-serif;
 }
 
@@ -47,8 +47,8 @@ p {
 }
 
 img {
-	width: 50%;
-	height: 50%;
+	width: 25%;
+	height: 5%;
 	margin: 5px;
 }
 
@@ -78,4 +78,10 @@ a:hover {
     width: 150px; 
     height: 150px; 
     object-fit: cover; 
+}
+
+.imagem-menu {
+	width: 50%;
+	height: 50%;
+	margin: 5px;
 }
