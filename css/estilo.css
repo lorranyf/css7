@@ -1,5 +1,5 @@
 body {
-	background-color: #f3ebeb;
+	background-color: #979797;
 	font-family: 'Times New Roman', Times, serif, sans-serif;
 }
 
@@ -71,4 +71,11 @@ img {
 
 a:hover {
 	color: #ccc;
+}
+
+.imagem-redonda {
+    border-radius: 50%;
+    width: 150px; 
+    height: 150px; 
+    object-fit: cover; 
 }
